@@ -3,7 +3,7 @@
    font-style: normal;
    font-weight: normal;
    font-display: block;
-   src: url(./flaticon.woff2) format("woff2"), url(./flaticon.woff) format("woff");
+   src: url(flaticon.woff2) format("woff2"), url(flaticon.woff) format("woff");
 }
 
 [class^="flaticon-"], [class*=" flaticon-"] {
